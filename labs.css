@@ -411,6 +411,7 @@ h6, .h6 {
   font-size: 4.5rem;
   font-weight: 300;
   line-height: 1.2;
+  color: #f8f8ff;
 }
 
 .display-4 {
@@ -5086,7 +5087,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #e9ecef;
+  background-color: #282828;
   border-radius: 0.3rem;
 }
 
