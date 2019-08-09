@@ -2,7 +2,7 @@ body {
   background-color: #080808
 }
 
-.jumbotron {
+.jumbo {
   padding: 1.5rem 1rem;
   margin-bottom: 2rem;
   text-align: center;
@@ -16,7 +16,14 @@ h1 {
   font-weight: 100;
 }
 
-.mini-header {
+#miniHeader {
   font-size: 1.5em;
   text-align: center;
+  color: #f8f8ff
+}
+
+.whatPWA {
+  padding: 1rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #080808;
 }
