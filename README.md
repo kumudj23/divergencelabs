@@ -1,2 +1,2 @@
 # divergencelabs
- a progressive web app tutorial
+ an intro to progressive web apps
