@@ -3,18 +3,17 @@ body {
 }
 
 .jumbotron {
-  padding: 2rem 1rem;
+  padding: 1.5rem 1rem;
   margin-bottom: 2rem;
   text-align: center;
   background-color: #212121;
-  /*border-radius: 0.3rem;*/
 }
 
 h1 {
   font-family: 'Questrial', sans-serif;
   font-size: 4.7em;
   color: #f8f8ff;
-  font-weight: 200px;
+  font-weight: 100;
 }
 
 .mini-header {
