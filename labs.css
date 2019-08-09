@@ -10,7 +10,7 @@ body {
   /*border-radius: 0.3rem;*/
 }
 
-.headerFont {
+h1 {
   font-family: 'Questrial', sans-serif;
   font-size: 4.7em;
   color: #f8f8ff;
