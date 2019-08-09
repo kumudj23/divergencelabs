@@ -4,7 +4,6 @@ body {
 
 .jumbo {
   padding: 1.5rem 1rem;
-
   text-align: center;
   background-color: #212121;
 }
@@ -27,7 +26,7 @@ h1 {
 
 .images {
   width: 100%;
-  display: block;
+  height: auto;
 }
 
 .whatPWA {
