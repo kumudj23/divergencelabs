@@ -5,7 +5,7 @@
   "background_color": "#080808",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "/divergencelabs/",
   "icons": [
     {
     "src": "lablogo.png",
@@ -20,6 +20,11 @@
     {
       "src": "144lab.png",
       "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "16lab.png",
+      "sizes": "16x16",
       "type": "image/png"
     }
   ],
