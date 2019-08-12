@@ -26,6 +26,11 @@
       "src": "16lab.png",
       "sizes": "16x16",
       "type": "image/png"
+    },
+    {
+      "src": "120lab.png",
+      "sizes": "120x120",
+      "type": "image/png"
     }
   ],
   "serviceworker": {
