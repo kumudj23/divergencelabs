@@ -1,0 +1,24 @@
+{
+  "name": "Divergence Labs PWS",
+  "short_name": "Divergence",
+  "theme_color": "#212121",
+  "background_color": "#080808",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+    "src": "lablogo.png",
+    "sizes": "512×512",
+    "type": "image/png"
+    },
+    {
+    "src": "minilablogo.png",
+    "sizes": "32x32",
+    "type": "image/png"
+    }
+  ],
+  "serviceworker": {
+    "src": "service-worker.js"
+  }
+}
