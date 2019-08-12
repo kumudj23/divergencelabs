@@ -1,0 +1,8 @@
+{
+  "name": "Divergence Labs PWA",
+  "theme_color": "#212121",
+  "background_color": "#080808",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/"
+}
