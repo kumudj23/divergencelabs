@@ -3,32 +3,33 @@
   "short_name": "Divergence",
   "theme_color": "#212121",
   "background_color": "#080808",
+  "description": "A proof of concept Divergence Labs progressive web application.",
   "display": "standalone",
   "scope": "/",
   "start_url": "/divergencelabs/",
   "icons": [
     {
-    "src": "lablogo.png",
+    "src": "/lablogo.png",
     "sizes": "512×512",
     "type": "image/png"
     },
     {
-    "src": "minilablogo.png",
+    "src": "/minilablogo.png",
     "sizes": "32x32",
     "type": "image/png"
     },
     {
-      "src": "144lab.png",
+      "src": "/144lab.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "16lab.png",
+      "src": "/16lab.png",
       "sizes": "16x16",
       "type": "image/png"
     },
     {
-      "src": "120lab.png",
+      "src": "/120lab.png",
       "sizes": "120x120",
       "type": "image/png"
     }
