@@ -1,5 +1,5 @@
 {
-  "name": "Divergence Labs PWA",
+  "name": "Divergence",
   "theme_color": "#212121",
   "background_color": "#080808",
   "display": "standalone",
@@ -7,7 +7,7 @@
   "start_url": "/",
   "icons": [{
     "src": "lablogo.jpg",
-    "sizes": "512x512",
+    "sizes": "512x512"}],
   "serviceworker": {
     "src": "service-worker.js"
   }
