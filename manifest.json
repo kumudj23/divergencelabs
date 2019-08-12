@@ -4,5 +4,11 @@
   "background_color": "#080808",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/"
+  "start_url": "/",
+  "icons": [{
+    "src": "lablogo.jpg",
+    "sizes": "512x512",
+  "serviceworker": {
+    "src": "service-worker.js"
+  }
 }
