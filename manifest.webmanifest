@@ -7,7 +7,8 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/divergencelabs/",
-  "icons": [{
+  "icons": [
+    {
       "src": "lablogo.png",
       "sizes": "512×512",
       "type": "image/png"
@@ -36,5 +37,6 @@
       "src": "192lab.png",
       "sizes": "192x192",
       "type": "image/png"
-    }],
+    }
+  ],
 }
