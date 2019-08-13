@@ -1,5 +1,5 @@
 {
-  "name": "Divergence Labs PWS",
+  "name": "Divergence Labs PWA",
   "short_name": "Divergence",
   "theme_color": "#212121",
   "background_color": "#080808",
@@ -7,8 +7,7 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/divergencelabs/",
-  "icons": [
-    {
+  "icons": [{
     "src": "lablogo.png",
     "sizes": "512×512",
     "type": "image/png"
@@ -32,8 +31,12 @@
       "src": "120lab.png",
       "sizes": "120x120",
       "type": "image/png"
-    }
-  ],
+    },
+    {
+      "src": "192lab.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }],
   "serviceworker": {
     "src": "service-worker.js"
   }
