@@ -3,7 +3,7 @@
   "short_name": "Divergence",
   "theme_color": "#212121",
   "background_color": "#080808",
-  "description": "A proof of concept Divergence Labs progressive web application.",
+  "description": "A proof of concept Divergence Labs progressive web application. Works on mobile and desktop and is fully installable!",
   "display": "standalone",
   "scope": "/",
   "start_url": "/divergencelabs/",
@@ -49,9 +49,9 @@
       "type": "image/png"
     },
     {
-      "src": "images/icon-192x192.jpg",
+      "src": "images/icons/iosDLlogo.png",
       "sizes": "192x192",
-      "type": "image/jpg"
+      "type": "image/png"
     }
   ]
 }
